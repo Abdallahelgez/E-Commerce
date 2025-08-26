@@ -24,3 +24,4 @@ const useProducts = ()=>{
     },[]);
     return {products , loading ,error};
 };
+//useProducts 
